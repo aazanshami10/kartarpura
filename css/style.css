@@ -501,5 +501,14 @@
 }
 
 
+#social-buttons {
+    justify-content: center;
+}
+
+#social-buttons .btn-social {
+    margin: 0 10px; /* Optional: Adds some spacing between buttons */
+    margin-bottom: 10px;
+}
+
 
 
